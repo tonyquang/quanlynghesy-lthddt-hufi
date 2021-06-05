@@ -1,0 +1,6 @@
+F:\c#\QuanLyNgheSy\QuanLyNgheSy\bin\Debug\QuanLyNgheSy.exe.config
+F:\c#\QuanLyNgheSy\QuanLyNgheSy\obj\Debug\QuanLyNgheSy.csprojResolveAssemblyReference.cache
+F:\c#\QuanLyNgheSy\QuanLyNgheSy\bin\Debug\QuanLyNgheSy.exe
+F:\c#\QuanLyNgheSy\QuanLyNgheSy\bin\Debug\QuanLyNgheSy.pdb
+F:\c#\QuanLyNgheSy\QuanLyNgheSy\obj\Debug\QuanLyNgheSy.exe
+F:\c#\QuanLyNgheSy\QuanLyNgheSy\obj\Debug\QuanLyNgheSy.pdb
